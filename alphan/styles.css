@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgba(0, 0, 0, 0.923);
+    color: rgb(0, 255, 0);
+}
+
+pre{
+    display: inline-block;
+    margin: .5rem;
+}
+
+.hide{
+    display: none;
+}
